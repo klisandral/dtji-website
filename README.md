@@ -5,7 +5,9 @@ Este site tem como objetivo o treino de algumas noções de html/css com o míni
 Somos um grupo de amigos que se conheceram na escola e que desde cedo começaram a jogar juntos. Entre os nossos jogos mais marcantes estão Ragnarok, Grand Chase, Counter Strike e League of Legends. 
 
 Redes:
-https://www.facebook.com/DontThinkJustImagine
+
+https://www.facebook.com/DontThinkJustImagine 
+
 https://www.instagram.com/dtji_/
 
 ## Layout PC
